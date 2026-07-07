@@ -3,7 +3,7 @@
 A content-based movie recommender built on the MovieLens (Latest Small) dataset.
 Given a movie title, it returns the most similar movies based on title, genres,
 and user tags — using TF-IDF text features and on-demand cosine similarity.
-
+ 
 ## What it does
 
 - Loads and validates the four MovieLens raw CSVs (movies, ratings, tags, links)
